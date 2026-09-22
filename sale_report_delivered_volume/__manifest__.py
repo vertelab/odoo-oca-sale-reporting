@@ -9,7 +9,7 @@
     "category": "Sales",
     "development_status": "Production/Stable",
     "license": "AGPL-3",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_report_delivered_volume",
     "depends": ["sale"],
     "installable": True,
 }

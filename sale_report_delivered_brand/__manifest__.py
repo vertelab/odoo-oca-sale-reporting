@@ -4,7 +4,7 @@
     "name": "Sale Report Delivered Brand",
     "version": "18.0.1.0.1",
     "author": "Tecnativa, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_report_delivered_brand",
     "category": "Sales",
     "license": "AGPL-3",
     "depends": ["sale_report_delivered", "product_brand"],

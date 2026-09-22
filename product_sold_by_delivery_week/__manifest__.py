@@ -7,7 +7,7 @@
     "version": "18.0.1.0.0",
     "development_status": "Beta",
     "category": "Sale",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/product_sold_by_delivery_week",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "maintainers": ["chienandalu"],
     "license": "AGPL-3",

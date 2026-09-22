@@ -4,7 +4,7 @@
     "name": "Sale Report Delivered Partner Priority",
     "version": "18.0.1.0.0",
     "author": "Tecnativa, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_report_delivered_partner_priority",
     "category": "Sales",
     "license": "AGPL-3",
     "depends": ["sale_report_delivered", "partner_priority"],

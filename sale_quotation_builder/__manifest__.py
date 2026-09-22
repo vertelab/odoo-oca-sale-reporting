@@ -4,7 +4,7 @@
     "name": "Quotation Builder",
     "category": "Sales/Sales",
     "summary": "Build great quotation templates",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_quotation_builder",
     "author": "Odoo Community Association (OCA), Odoo SA",
     "version": "18.0.0.0.0",
     "depends": ["website", "sale_management", "website_mail"],

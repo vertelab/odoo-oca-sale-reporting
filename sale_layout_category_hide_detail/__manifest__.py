@@ -7,7 +7,7 @@
     "reports and customer portal",
     "version": "18.0.1.0.0",
     "category": "Sales Management",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_layout_category_hide_detail",
     "author": "Tecnativa, " "Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["sale_management"],

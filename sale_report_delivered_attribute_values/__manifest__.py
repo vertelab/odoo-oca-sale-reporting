@@ -7,7 +7,7 @@
     "version": "18.0.1.0.1",
     "development_status": "Alpha",
     "category": "Sales",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_report_delivered_attribute_values",
     "author": "Moduon, Odoo Community Association (OCA)",
     "maintainers": ["Shide", "rafaelbn"],
     "license": "AGPL-3",

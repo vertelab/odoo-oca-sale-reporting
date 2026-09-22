@@ -8,7 +8,7 @@
     "category": "Sales",
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "website": "https://github.com/OCA/sale-reporting",
+    "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_order_line_position",
     "depends": ["sale"],
     "data": [
         "views/sale_order.xml",
