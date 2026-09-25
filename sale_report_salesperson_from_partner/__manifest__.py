@@ -2,6 +2,17 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Sale Report Salesperson From Partner",
+    'summary': "Derives the salesperson from the partner on sales reports.",
+    'description': '''
+Sale Report Salesperson From Partner
+====================================
+
+    Derives the salesperson from the partner on sales reports.
+
+    Features:
+
+        - UI Integration: Extends 1 view(s) in the Odoo interface.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Tecnativa," "Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_report_salesperson_from_partner",

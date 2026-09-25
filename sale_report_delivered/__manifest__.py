@@ -2,6 +2,17 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     "name": "Sale Report Delivered",
+    'summary': "Adds delivered quantities to the sales analysis report.",
+    'description': '''
+Sale Report Delivered
+=====================
+
+    Adds delivered quantities to the sales analysis report.
+
+    Features:
+
+        - UI Integration: Extends 1 view(s) in the Odoo interface.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Tecnativa," "Odoo Community Association (OCA)",
     "website": "https://vertel.se/apps/odoo-oca-sale-reporting/sale_report_delivered",

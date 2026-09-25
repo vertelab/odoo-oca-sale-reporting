@@ -4,6 +4,17 @@
 
 {
     "name": "Sale Report Delivered Volume",
+    'summary': "Adds volume to the delivered quantities report.",
+    'description': '''
+Sale Report Delivered Volume
+============================
+
+    Adds volume to the delivered quantities report.
+
+    Features:
+
+        - Extends Odoo: Builds on sale.report.
+    ''',
     "version": "18.0.1.0.0",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "category": "Sales",
